@@ -268,6 +268,8 @@ Phase 1이 끝나면 스킬이 멈춰 서서 **"이 자산을 살리고 이건 �
 
 **에이전트 팀 킷** — [policy-research-kit](https://github.com/parkjui92/policy-research-kit) (정책연구보고서) · [rnd-proposal-kit](https://github.com/parkjui92/rnd-proposal-kit) (정부 R&D 제안서) · [socsci-paper-kit](https://github.com/parkjui92/socsci-paper-kit) (사회과학 논문)
 
+**제작·편집 킷** — [lecture-deck-kit](https://github.com/parkjui92/lecture-deck-kit) (강의자료 HTML 덱 · 브라우저 라이브 편집)
+
 **단독 스킬** — **report-to-brief** (이 저장소, 보고서 압축) · [fact-verify](https://github.com/parkjui92/fact-verify) (출처 검증) · [paper-proofread](https://github.com/parkjui92/paper-proofread) (한국어 학술 교정교열) · [form-tailor](https://github.com/parkjui92/form-tailor) (기관 양식 맞춤)
 
 이어 붙이면 이렇게 씁니다 — **킷으로 보고서를 쓰고 → report-to-brief로 줄이고 → form-tailor로 기관 양식에 맞추고 → fact-verify로 출처를 확인합니다.**
