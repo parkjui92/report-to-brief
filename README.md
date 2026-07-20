@@ -40,14 +40,14 @@ LLM 요약은 흔히 세 가지로 실패합니다. report-to-brief는 그걸 �
 ```bash
 mkdir -p ~/.claude/skills
 cd ~/.claude/skills
-git clone https://github.com/parkjui92-tech/report-to-brief.git
+git clone https://github.com/parkjui92/report-to-brief.git
 ```
 
 ### 의존성 (없으면 폴백)
 
 - `.hwp/.hwpx` 입력: [kordoc](https://github.com/chrisryugj/kordoc) MCP
 - `.docx`: pandoc/python-docx · `.pdf`: pdf 스킬
-- 출처 실재 검증 연계(선택): [fact-verify](https://github.com/parkjui92-tech/fact-verify)
+- 출처 실재 검증 연계(선택): [fact-verify](https://github.com/parkjui92/fact-verify)
 
 ## 사용법
 
@@ -74,9 +74,9 @@ git clone https://github.com/parkjui92-tech/report-to-brief.git
 ## 연구자용 스킬 시리즈
 
 - **report-to-brief** (이 저장소) — 보고서→브리프 압축
-- **[form-tailor](https://github.com/parkjui92-tech/form-tailor)** — 기관 양식 맞춤 제작
-- **[fact-verify](https://github.com/parkjui92-tech/fact-verify)** — 출처 신뢰도 검증
-- **[paper-proofread](https://github.com/parkjui92-tech/paper-proofread)** — 한국어 학술 원고 교정교열
+- **[form-tailor](https://github.com/parkjui92/form-tailor)** — 기관 양식 맞춤 제작
+- **[fact-verify](https://github.com/parkjui92/fact-verify)** — 출처 신뢰도 검증
+- **[paper-proofread](https://github.com/parkjui92/paper-proofread)** — 한국어 학술 원고 교정교열
 
 ## 라이선스
 
