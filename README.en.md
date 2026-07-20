@@ -27,7 +27,7 @@ Those are formatting problems, and formatting problems are easy to fix. The hard
 ## Three-axis compression review
 
 ```
-Source → dissect (lock core assets) → ★design gate → draft (conclusion-first) → three-axis review → brief + compression report
+Source → dissect (lock core assets) → ★compression-design gate → draft (conclusion-first) → three-axis review → brief + compression report
 ```
 
 Going back and **comparing against the original** is the substance of this skill. Making a document shorter is not hard; **making it shorter without lying** is.
@@ -53,7 +53,7 @@ If your install path takes a packaged bundle, use [`report-to-brief.skill`](repo
 ```
 Compress this report into a 4-page policy brief. Audience: decision-makers   ← length + audience
 Make this an executive summary. Conclusions, recommendations, risks only     ← it reads the type from your wording
-Drop all the methodology, but keep the Japan case                            ← at the ★design gate
+Drop all the methodology, but keep the Japan case                            ← at the ★compression-design gate
 Re-check axis 1. Paragraph 3 reads stronger than the original does           ← pushing back on the review
 ```
 
